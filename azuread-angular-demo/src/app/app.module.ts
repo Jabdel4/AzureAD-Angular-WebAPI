@@ -40,9 +40,9 @@ const isIE=window.navigator.userAgent.indexOf('MSIE')>-1
       (
         {
           auth:{
-            clientId:'08e09122-018e-46ff-a800-e21ba43d8602',
-            redirectUri:'http://localhost:4200',
-            authority:'https://login.microsoftonline.com/97016c4c-cd51-4f33-a457-1a2abf1837bb'
+            clientId:'',
+            redirectUri:'',
+            authority:''
           },
           cache:
           {
